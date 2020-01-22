@@ -1,3 +1,7 @@
+To run:
+"go build"
+"go run main.go"
+
 Endpoints:
 - GET /api/listCookies
     - Retrieves a list of all cookies stored in the database
